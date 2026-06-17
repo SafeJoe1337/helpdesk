@@ -286,8 +286,8 @@ After importing the database, use these credentials:
 
 | Role | Username | Password |
 |---|---|---|
-| Admin | `admin` | `admin123` |
-| Resident | `resident` | `resident123` |
+| Admin | `admin@gmail.com` | `addminadmin` |
+| Resident | `resident@gmail.com` | `resident` |
 
 > ⚠️ Change these passwords after first login in a production environment.
 
