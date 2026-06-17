@@ -165,7 +165,7 @@ The BERT model weights (~700 MB) are **not included** in the repository due to f
 **Option A — Download from Google Drive (Recommended)**
 
 Ask your team lead to share the `helpdesk_bert_model.zip` file via Google Drive, then:
-
+https://drive.google.com/file/d/1yihyUS30yKIAiDLIP9G9N8uiF1hZVMc_/view?usp=sharing
 1. Download `helpdesk_bert_model.zip`
 2. Extract it into your Helpdesk folder so it looks like:
 ```
