@@ -1,0 +1,59 @@
+# ── BERT Model (too large for GitHub ~700MB) ──────────────────────────────────
+helpdesk_bert_model/
+helpdesk_bert_model.zip
+*.pt
+*.bin
+*.safetensors
+
+# ── Python ────────────────────────────────────────────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Environment / Secrets ─────────────────────────────────────────────────────
+.env
+.env.local
+*.key
+config.local.php
+
+# ── HuggingFace Cache ─────────────────────────────────────────────────────────
+.cache/
+hf_cache/
+
+# ── OS Files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / Editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Temp files ───────────────────────────────────────────────────────────────
+*.tmp
+*.bak
+*.swp
+reports_to_label.csv
+
+# ── TODO files (internal dev notes) ──────────────────────────────────────────
+TODO*.md
+
+# ── Old/backup files ─────────────────────────────────────────────────────────
+admin_dashboard_original.php
+gemini_pormt.txt
+helpdesk_degraded.sql
+helpdesk__1_.sql
+helpdesk_sentimental_NLP.sql
