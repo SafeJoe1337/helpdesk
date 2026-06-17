@@ -96,7 +96,7 @@ cd C:\xampp\htdocs        # Windows
 cd /opt/lampp/htdocs      # Linux
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/helpdesk.git Helpdesk
+git clone https://github.com/SafeJoe1337/helpdesk.git Helpdesk
 
 # Enter the project folder
 cd Helpdesk
